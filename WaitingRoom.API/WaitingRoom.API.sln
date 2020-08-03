@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaitingRoom.API", "WaitingR
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "WaitingRoomDB", "WaitingRoomDB\WaitingRoomDB.sqlproj", "{6CC82DA3-276B-4651-A81B-AD26A997A181}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataModel", "DataModel\DataModel.csproj", "{F99097BC-A437-49A7-8901-2F68D734BECC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{6CC82DA3-276B-4651-A81B-AD26A997A181}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CC82DA3-276B-4651-A81B-AD26A997A181}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6CC82DA3-276B-4651-A81B-AD26A997A181}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F99097BC-A437-49A7-8901-2F68D734BECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F99097BC-A437-49A7-8901-2F68D734BECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F99097BC-A437-49A7-8901-2F68D734BECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F99097BC-A437-49A7-8901-2F68D734BECC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
